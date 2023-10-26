@@ -1,0 +1,6 @@
+/venv
+.env
+/utils
+project.drawio
+/*/__pycache__
+/.idea
